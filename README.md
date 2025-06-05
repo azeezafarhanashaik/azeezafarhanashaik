@@ -6,7 +6,7 @@
 - 🎯 Passionate about **ethical hacking, penetration testing, and cybersecurity research**.  
 - 💡 Learning **Linux, Networking, and Cybersecurity tools**.  
 - 🎥 Creating educational content on **cybersecurity** at [Future Hackers](https://www.youtube.com/@FutureHackers).  
-- 🌐 Building the **Future Hackers website**, which is useful for the future hackers. 
+- 🌐 Built the [Future Hackers Website](https://azeezafarhanashaik.github.io/future-hackers-devpost/), which is useful for the future hackers. 
 
 ### 💻 Technical Skills  
 - 🛡️ **Cybersecurity:** Kali Linux, Steganography, Phishing, OWASP Top 10, SOC Analysis  

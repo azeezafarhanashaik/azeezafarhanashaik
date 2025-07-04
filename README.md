@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shaik Azeeza Farhana!  
-## 🚀 Cybersecurity Enthusiast | Ethical Hacking Learner | Tech Explorer  
+## 🚀 Certified Ethical Hacker | Cybersecurity Enthusiast | Tech Explorer 
 
 ### 🔹 About Me  
 - 🎓 **B.Tech Pre-final Year** in Computer Science & Engineering (**Cyber Security**) at **Ramachandra College of Engineering (JNTUK)**.  
@@ -16,7 +16,7 @@
 - 🔧 **Tools & Platforms:** GitHub, VMware, VirtualBox, Burp Suite, Wireshark  
 
 ### 🌱 Ongoing Learning  
-- 📌 Preparing for **CEH, SOC Analyst**.  
+- 📌 Preparing for **Comptia Security+, CPENT**.  
 - 💻 Exploring **Cloud Security & CCNA Networking**.  
 
 ### 📩 Connect with Me  
